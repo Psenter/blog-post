@@ -4,3 +4,8 @@
     margin-left: auto;
     margin-right: auto;
 }
+
+.smaller-icon {
+    width: 150px;
+    height: auto;
+}
