@@ -1,12 +1,12 @@
 .small-img {
-    width: 400px;
+    width: 300px;
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
 
 .smaller-icon {
-    width: 150px;
+    width: 100px;
     height: auto;
 }
 
