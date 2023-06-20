@@ -29,3 +29,7 @@ img:hover {
 .text-margin-left {
     margin-left: 50px;
 }
+
+a {
+    color: black;
+}
