@@ -9,3 +9,11 @@
     width: 150px;
     height: auto;
 }
+
+img {
+    background-color: none;
+}
+
+img:hover {
+    background-color: orange;
+}
