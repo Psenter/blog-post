@@ -17,3 +17,19 @@ img {
 img:hover {
     background-color: orange;
 }
+
+.img-margin-top {
+    margin-top: 100px;
+}
+
+.text-margin-top {
+    margin-top: 150px;
+}
+
+.text-margin-left {
+    margin-left: 50px;
+}
+
+a {
+    color: black;
+}
