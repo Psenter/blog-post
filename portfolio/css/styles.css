@@ -33,3 +33,8 @@ img:hover {
 a {
     color: black;
 }
+
+hr {
+    background-color: orange;
+    margin-top: 90px;
+}
